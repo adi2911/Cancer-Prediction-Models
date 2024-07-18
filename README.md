@@ -8,29 +8,43 @@ I have listed the performance of all the models, based on which we can decide wh
 Following is the visualisation of all the models:
 
 ### Decision Tee
+Model Accuracy Score is : 95.906%
+
 ![Example Image](PlotImages/DecisionTree.png)
 
 ### Logistic Regression
+Model Accuracy Score is : 94.736%
+
 ![Example Image](PlotImages/logisticregression.png)
 
 
 ### Support Vector
+Model Accuracy Score is : 94.152%
+
 ![Example Image](PlotImages/supportvector.png)
 
 
 ### Support Vector with a different kernel
+Model Accuracy Score is : 95.321%
+
 ![Example Image](PlotImages/kernelsvm.png)
 
 
 ### Naive Bayes
+Model Accuracy Score is : 94.152%
+
 ![Example Image](PlotImages/naivebayes.png)
 
 
 ### Random Forest
+Model Accuracy Score is : 93.567%
+
 ![Example Image](PlotImages/randomforest.png)
 
 
 ### K-Nearest Neighbours
+Model Accuracy Score is : 94.736%
+
 ![Example Image](PlotImages/knearest.png)
 
 
