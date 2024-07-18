@@ -49,3 +49,7 @@ Model Accuracy Score is : 94.736%
 
 
 
+***Since the accuracy score of Decision Tree is the most. It is the best suited model for such type of predictions.***
+
+
+
