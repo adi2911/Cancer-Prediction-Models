@@ -11,15 +11,27 @@ Following is the visualisation of all the models:
 ![Example Image](PlotImages/DecisionTree.png)
 
 ### Logistic Regression
+![Example Image](PlotImages/logisticregression.png)
+
 
 ### Support Vector
+![Example Image](PlotImages/supportvector.png)
 
-### Support Vectore with a different kernel
+
+### Support Vector with a different kernel
+![Example Image](PlotImages/kernelsvm.png)
+
 
 ### Naive Bayes
+![Example Image](PlotImages/naivebayes.png)
+
 
 ### Random Forest
+![Example Image](PlotImages/DecisionTree.png)
+
 
 ### K-Nearest Neighbours
+![Example Image](PlotImages/knearest.png)
+
 
 
