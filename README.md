@@ -27,7 +27,7 @@ Following is the visualisation of all the models:
 
 
 ### Random Forest
-![Example Image](PlotImages/DecisionTree.png)
+![Example Image](PlotImages/randomforest.png)
 
 
 ### K-Nearest Neighbours
